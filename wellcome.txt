@@ -1,2 +1,7 @@
 print("welcome");
 print("please go out");
+print("please go out");
+print("please go out");
+print("please go out");
+print("please go out");
+print("please go out");
